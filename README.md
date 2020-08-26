@@ -1,0 +1,2 @@
+# Malicious-IANA-Ports
+Checking open port of TCP(User Ports range from 1024 to 49770) of computer with malicious ports dataset released by IANA . IANA(Internet Assigned Numbers Authority)  is a standards organization that oversees global IP address allocation, autonomous system number allocation, root zone management in the Domain Name System, media types, and other Internet Protocol-related symbols and Internet numbers.
